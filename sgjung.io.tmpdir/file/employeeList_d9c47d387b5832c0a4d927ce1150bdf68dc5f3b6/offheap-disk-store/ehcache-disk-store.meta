@@ -1,0 +1,4 @@
+#Key and value types
+#Sun Jul 25 16:45:37 KST 2021
+valueType=io.study.ehcache.employee.Employee
+keyType=java.lang.String
